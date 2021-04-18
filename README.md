@@ -29,4 +29,8 @@ Importing the nessesary libraries.
  <h1> Step 5 </h1> 
  In result function you will declare the results. 
  If number of attemps that is if "sc" is less than 5 the you win 
- else you loose. 
+ else you loose. The display the message using messagebox which is package in tkinter. 
+ 
+ Here is the demo 👇
+ <br> <br> 
+ ![Final-video](https://user-images.githubusercontent.com/60460991/115141827-ffdbe000-a05b-11eb-819c-4df7437b5dee.gif)
